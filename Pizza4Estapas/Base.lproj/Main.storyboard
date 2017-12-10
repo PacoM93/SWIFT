@@ -21,25 +21,25 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="-Tamaño" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cZE-3V-bw9">
-                                <rect key="frame" x="43" y="282" width="234" height="21"/>
+                                <rect key="frame" x="43" y="238" width="234" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="-Tipo de queso" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GVa-ZX-LVM">
-                                <rect key="frame" x="43" y="340" width="234" height="21"/>
+                                <rect key="frame" x="43" y="296" width="234" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="-Tipo de masa" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OHt-8z-vjm">
-                                <rect key="frame" x="43" y="311" width="234" height="21"/>
+                                <rect key="frame" x="43" y="267" width="234" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="-Ingredientes" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sKG-ma-eD6">
-                                <rect key="frame" x="43" y="369" width="234" height="21"/>
+                                <rect key="frame" x="43" y="325" width="234" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -59,7 +59,7 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Aquí podras elegir la pizza a tu gusto desde:" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3U9-KO-T2o">
-                                <rect key="frame" x="16" y="197" width="288" height="64"/>
+                                <rect key="frame" x="16" y="153" width="288" height="64"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="64" id="nS2-vf-Bd2"/>
                                 </constraints>
@@ -68,7 +68,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Bienvenido a las Pizzas Coursera.com" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SIM-4v-Z2L">
-                                <rect key="frame" x="32" y="82" width="256" height="90"/>
+                                <rect key="frame" x="32" y="38" width="256" height="90"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="90" id="nvS-Ss-Sba"/>
                                 </constraints>
@@ -125,7 +125,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0je-Ct-dpX">
-                                <rect key="frame" x="70" y="217" width="201" height="44"/>
+                                <rect key="frame" x="70" y="173" width="201" height="44"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="sKO-ac-wvx"/>
@@ -139,7 +139,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ukL-Fo-cj7">
-                                <rect key="frame" x="70" y="309" width="201" height="44"/>
+                                <rect key="frame" x="70" y="265" width="201" height="44"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="Jbp-Eh-n8r"/>
@@ -153,7 +153,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lsw-FV-XRf">
-                                <rect key="frame" x="70" y="395" width="201" height="44"/>
+                                <rect key="frame" x="70" y="351" width="201" height="44"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="ZkO-SF-X88"/>
@@ -176,7 +176,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Selecciona el tamaño de la pizza:" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="j3s-RV-gwd">
-                                <rect key="frame" x="27" y="101" width="286" height="57"/>
+                                <rect key="frame" x="27" y="57" width="286" height="57"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="57" id="Pua-2s-gFq"/>
                                 </constraints>
@@ -204,7 +204,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="CkU-fE-llb"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Tamaño" image="tamaño" id="etT-wH-5BW">
+                    <tabBarItem key="tabBarItem" title="Tamaño" image="tamaño" id="etT-wH-5BW">
                         <inset key="imageInsets" minX="3" minY="3" maxX="3" maxY="3"/>
                     </tabBarItem>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
@@ -228,7 +228,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Selecciona el tipo de masa:" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3bx-aw-i5G">
-                                <rect key="frame" x="21" y="107" width="283" height="63"/>
+                                <rect key="frame" x="21" y="63" width="283" height="63"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="63" id="pm8-xi-FK2"/>
                                 </constraints>
@@ -246,7 +246,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZLH-mU-Adm">
-                                <rect key="frame" x="60" y="217" width="200" height="44"/>
+                                <rect key="frame" x="60" y="173" width="200" height="44"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="xrs-9C-VVq"/>
@@ -260,7 +260,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OPS-wm-hRk">
-                                <rect key="frame" x="60" y="310" width="200" height="44"/>
+                                <rect key="frame" x="60" y="266" width="200" height="44"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="uGJ-nP-yVP"/>
@@ -274,7 +274,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="O2s-8u-C5k">
-                                <rect key="frame" x="60" y="396" width="200" height="44"/>
+                                <rect key="frame" x="60" y="352" width="200" height="44"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="URI-CC-ktV"/>
@@ -381,7 +381,7 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Selecciona el tipo de queso:" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8V2-k3-3Ut">
-                                <rect key="frame" x="31" y="110" width="258" height="19"/>
+                                <rect key="frame" x="31" y="66" width="258" height="63"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle2"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -447,14 +447,14 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Selecciona de 1 a 5 ingredientes:" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Ya-9L-YdP">
-                                <rect key="frame" x="22" y="118" width="282" height="26"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Selecciona de 1 a 5 ingredientes:" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Ya-9L-YdP">
+                                <rect key="frame" x="22" y="82" width="282" height="62"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle2"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KkF-hB-0FD">
-                                <rect key="frame" x="19" y="221" width="84" height="44"/>
+                                <rect key="frame" x="19" y="209.5" width="84" height="44"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="f9q-iE-awU"/>
@@ -468,7 +468,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Cgb-fb-woQ">
-                                <rect key="frame" x="19" y="288" width="84" height="44"/>
+                                <rect key="frame" x="19" y="276.5" width="84" height="44"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="cos-Ft-aVT"/>
@@ -482,7 +482,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6E2-1H-qGW">
-                                <rect key="frame" x="121" y="154" width="84" height="44"/>
+                                <rect key="frame" x="121" y="142.5" width="84" height="44"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="zKt-dt-JAM"/>
@@ -496,7 +496,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BRN-o9-FyU">
-                                <rect key="frame" x="121" y="223" width="84" height="44"/>
+                                <rect key="frame" x="121" y="211.5" width="84" height="44"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="k5z-iL-t3n"/>
@@ -510,7 +510,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DsU-fY-xOl">
-                                <rect key="frame" x="121" y="290" width="84" height="44"/>
+                                <rect key="frame" x="121" y="278.5" width="84" height="44"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="OP1-3Q-ec5"/>
@@ -524,7 +524,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Yl4-PQ-08K">
-                                <rect key="frame" x="223" y="152" width="84" height="44"/>
+                                <rect key="frame" x="223" y="140.5" width="84" height="44"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                 <state key="normal" title="Anchoa">
@@ -535,7 +535,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Pwu-gJ-wm7">
-                                <rect key="frame" x="223" y="221" width="84" height="44"/>
+                                <rect key="frame" x="223" y="209.5" width="84" height="44"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                 <state key="normal" title="Chile">
@@ -546,7 +546,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vLb-qw-2LR">
-                                <rect key="frame" x="223" y="288" width="84" height="44"/>
+                                <rect key="frame" x="223" y="276.5" width="84" height="44"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                 <state key="normal" title="Carne">
@@ -557,7 +557,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5QW-J1-7Yz">
-                                <rect key="frame" x="19" y="355" width="84" height="33"/>
+                                <rect key="frame" x="19" y="343.5" width="84" height="44.5"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                 <state key="normal" title="Salchicha">
@@ -568,7 +568,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VOH-ac-Lvj">
-                                <rect key="frame" x="121" y="357" width="84" height="33"/>
+                                <rect key="frame" x="121" y="345.5" width="84" height="44.5"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                 <state key="normal" title="Piña">
@@ -579,7 +579,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aeg-6L-gC1">
-                                <rect key="frame" x="223" y="355" width="84" height="33"/>
+                                <rect key="frame" x="223" y="343.5" width="84" height="44.5"/>
                                 <color key="backgroundColor" red="0.59341071329999995" green="0.998996675" blue="0.41442579940000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                 <state key="normal" title="Atún">
@@ -590,7 +590,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="daA-sa-2Oi">
-                                <rect key="frame" x="19" y="153" width="84" height="44"/>
+                                <rect key="frame" x="19" y="141.5" width="84" height="44"/>
                                 <color key="backgroundColor" red="0.59341071326197214" green="0.998996675" blue="0.41442579942652064" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="8sC-oV-K6S"/>
@@ -605,7 +605,7 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Sin Selección" lineBreakMode="tailTruncation" numberOfLines="6" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fAf-cF-6ro">
-                                <rect key="frame" x="16" y="364" width="290" height="153"/>
+                                <rect key="frame" x="16" y="352.5" width="290" height="164.5"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle3"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -630,7 +630,7 @@
                             <constraint firstItem="6E2-1H-qGW" firstAttribute="top" secondItem="9Ya-9L-YdP" secondAttribute="bottom" constant="10" id="M9l-gE-hN3"/>
                             <constraint firstItem="BRN-o9-FyU" firstAttribute="top" secondItem="6E2-1H-qGW" secondAttribute="bottom" constant="25" id="N7H-lv-4BN"/>
                             <constraint firstItem="Yl4-PQ-08K" firstAttribute="leading" secondItem="6E2-1H-qGW" secondAttribute="trailing" constant="18" id="OUX-Jw-cCv"/>
-                            <constraint firstItem="9Ya-9L-YdP" firstAttribute="top" secondItem="dlk-yW-8Us" secondAttribute="top" constant="54" id="OYV-mY-Y5L"/>
+                            <constraint firstItem="9Ya-9L-YdP" firstAttribute="top" secondItem="dlk-yW-8Us" secondAttribute="top" constant="18" id="OYV-mY-Y5L"/>
                             <constraint firstItem="VOH-ac-Lvj" firstAttribute="top" secondItem="DsU-fY-xOl" secondAttribute="bottom" constant="23" id="PMr-vy-3q7"/>
                             <constraint firstItem="5QW-J1-7Yz" firstAttribute="top" secondItem="aeg-6L-gC1" secondAttribute="top" id="QhT-LO-Aeq"/>
                             <constraint firstItem="fAf-cF-6ro" firstAttribute="leading" secondItem="cgo-u8-vyS" secondAttribute="leadingMargin" id="U7r-Ir-R10"/>
@@ -697,7 +697,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Elegiste la siguiente combinación para tu pizza:" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="g6j-5X-vE5">
-                                <rect key="frame" x="16" y="112" width="285" height="73"/>
+                                <rect key="frame" x="16" y="68" width="285" height="73"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="73" id="i00-6B-hoY"/>
                                 </constraints>
@@ -706,7 +706,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tamaño:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mMt-la-E1P">
-                                <rect key="frame" x="17" y="181" width="65" height="21"/>
+                                <rect key="frame" x="17" y="137" width="65" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="65" id="Ta7-vF-r4s"/>
                                 </constraints>
@@ -715,31 +715,31 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tipo de masa:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OiL-6W-Tjk">
-                                <rect key="frame" x="16" y="210" width="108" height="21"/>
+                                <rect key="frame" x="16" y="166" width="108" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tipo de queso:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BS0-r0-DiL">
-                                <rect key="frame" x="17" y="239" width="114" height="21"/>
+                                <rect key="frame" x="17" y="195" width="114" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JDN-sf-KYb">
-                                <rect key="frame" x="148" y="181" width="173" height="21"/>
+                                <rect key="frame" x="148" y="137" width="173" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IIr-sY-e6p">
-                                <rect key="frame" x="147" y="210" width="173" height="21"/>
+                                <rect key="frame" x="147" y="166" width="173" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6aG-8K-EMp">
-                                <rect key="frame" x="147" y="239" width="173" height="21"/>
+                                <rect key="frame" x="147" y="195" width="173" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -783,8 +783,8 @@
                                     <segue destination="BYZ-38-t0r" kind="show" id="Zat-Dl-ucv"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Ingredientes:" lineBreakMode="tailTruncation" numberOfLines="6" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oAd-1J-Uje">
-                                <rect key="frame" x="17" y="250" width="240" height="113"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Ingredientes:" lineBreakMode="tailTruncation" numberOfLines="7" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oAd-1J-Uje">
+                                <rect key="frame" x="17" y="218" width="240" height="171"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -798,7 +798,7 @@
                             <constraint firstItem="Pfx-m3-X72" firstAttribute="centerX" secondItem="nJS-LP-18Q" secondAttribute="centerX" id="5fq-1F-NmE"/>
                             <constraint firstItem="nJS-LP-18Q" firstAttribute="top" secondItem="Pfx-m3-X72" secondAttribute="bottom" constant="9" id="8Ne-Dg-5GB"/>
                             <constraint firstItem="BS0-r0-DiL" firstAttribute="top" secondItem="OiL-6W-Tjk" secondAttribute="bottom" constant="8" id="A7r-zQ-v2Z"/>
-                            <constraint firstItem="oAd-1J-Uje" firstAttribute="top" secondItem="OiL-6W-Tjk" secondAttribute="bottom" constant="19" id="B9o-LZ-MJ8"/>
+                            <constraint firstItem="oAd-1J-Uje" firstAttribute="top" secondItem="OiL-6W-Tjk" secondAttribute="bottom" constant="31" id="B9o-LZ-MJ8"/>
                             <constraint firstItem="Pfx-m3-X72" firstAttribute="leading" secondItem="ZYP-mt-F0D" secondAttribute="leading" constant="87" id="BhF-al-LfB"/>
                             <constraint firstItem="BS0-r0-DiL" firstAttribute="leading" secondItem="oAd-1J-Uje" secondAttribute="leading" id="Guv-Hf-2zE"/>
                             <constraint firstItem="IIr-sY-e6p" firstAttribute="trailing" secondItem="6aG-8K-EMp" secondAttribute="trailing" id="IoW-2i-sk9"/>
@@ -820,7 +820,7 @@
                             <constraint firstItem="pfx-So-pKw" firstAttribute="top" secondItem="nJS-LP-18Q" secondAttribute="bottom" constant="8" symbolic="YES" id="et2-PU-ObQ"/>
                             <constraint firstItem="BS0-r0-DiL" firstAttribute="baseline" secondItem="6aG-8K-EMp" secondAttribute="baseline" id="g54-xk-PN1"/>
                             <constraint firstItem="mMt-la-E1P" firstAttribute="top" secondItem="g6j-5X-vE5" secondAttribute="bottom" constant="-4" id="g6D-7t-f5u"/>
-                            <constraint firstItem="oAd-1J-Uje" firstAttribute="bottom" secondItem="Pfx-m3-X72" secondAttribute="bottom" constant="-38" id="iH8-Oy-oeb"/>
+                            <constraint firstItem="oAd-1J-Uje" firstAttribute="bottom" secondItem="Pfx-m3-X72" secondAttribute="bottom" constant="-12" id="iH8-Oy-oeb"/>
                             <constraint firstItem="OiL-6W-Tjk" firstAttribute="top" secondItem="mMt-la-E1P" secondAttribute="bottom" constant="8" id="oJA-Gf-wSo"/>
                             <constraint firstItem="JDN-sf-KYb" firstAttribute="leading" secondItem="mMt-la-E1P" secondAttribute="trailing" constant="66" id="pAF-mc-kT7"/>
                             <constraint firstItem="OiL-6W-Tjk" firstAttribute="baseline" secondItem="IIr-sY-e6p" secondAttribute="baseline" id="sL4-ZY-Ixn"/>
@@ -850,25 +850,14 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="JzJ-X2-3Md">
-                                <rect key="frame" x="40" y="122" width="240" height="325"/>
+                                <rect key="frame" x="40" y="122" width="240" height="397"/>
                                 <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Debes completar tu selección" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jkg-nD-I9G">
-                                        <rect key="frame" x="0.0" y="110" width="232" height="105"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Debes completar tu selección" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jkg-nD-I9G">
+                                        <rect key="frame" x="0.0" y="110" width="232" height="162"/>
                                         <fontDescription key="fontDescription" style="UICTFontTextStyleTitle2"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gwz-PP-3rc">
-                                        <rect key="frame" x="20" y="251" width="201" height="44"/>
-                                        <color key="backgroundColor" red="0.99932950740000004" green="0.62285339829999997" blue="0.27190011739999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                        <fontDescription key="fontDescription" style="UICTFontTextStyleTitle2"/>
-                                        <state key="normal" title="Volver">
-                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                        </state>
-                                        <connections>
-                                            <action selector="ClosePopu:" destination="JnM-hn-84z" eventType="touchUpInside" id="I9j-hs-Rux"/>
-                                        </connections>
-                                    </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="¡Lo sentimos!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bFZ-x4-c9o">
                                         <rect key="frame" x="39" y="55" width="175" height="21"/>
                                         <constraints>
@@ -878,14 +867,24 @@
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gwz-PP-3rc">
+                                        <rect key="frame" x="20" y="293" width="201" height="36"/>
+                                        <color key="backgroundColor" red="0.99932950740000004" green="0.62285339829999997" blue="0.27190011739999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <fontDescription key="fontDescription" style="UICTFontTextStyleTitle2"/>
+                                        <state key="normal" title="Volver">
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="ClosePopu:" destination="JnM-hn-84z" eventType="touchUpInside" id="I9j-hs-Rux"/>
+                                        </connections>
+                                    </button>
                                 </subviews>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
-                                    <constraint firstItem="jkg-nD-I9G" firstAttribute="centerY" secondItem="JzJ-X2-3Md" secondAttribute="centerY" id="3dg-6n-XX2"/>
+                                    <constraint firstItem="jkg-nD-I9G" firstAttribute="centerY" secondItem="JzJ-X2-3Md" secondAttribute="centerY" constant="-7.5" id="3dg-6n-XX2"/>
                                     <constraint firstItem="bFZ-x4-c9o" firstAttribute="top" secondItem="JzJ-X2-3Md" secondAttribute="top" constant="55" id="8rw-hB-EWp"/>
-                                    <constraint firstItem="gwz-PP-3rc" firstAttribute="top" secondItem="jkg-nD-I9G" secondAttribute="bottom" constant="36" id="98x-6a-d7b"/>
                                     <constraint firstItem="jkg-nD-I9G" firstAttribute="leading" secondItem="JzJ-X2-3Md" secondAttribute="leading" id="A1F-Tq-Ra3"/>
-                                    <constraint firstAttribute="bottom" secondItem="gwz-PP-3rc" secondAttribute="bottom" constant="30" id="C9S-ic-Fb8"/>
+                                    <constraint firstAttribute="bottom" secondItem="gwz-PP-3rc" secondAttribute="bottom" constant="68" id="C9S-ic-Fb8"/>
                                     <constraint firstItem="jkg-nD-I9G" firstAttribute="top" secondItem="bFZ-x4-c9o" secondAttribute="bottom" constant="34" id="HKT-8t-bLV"/>
                                     <constraint firstItem="gwz-PP-3rc" firstAttribute="leading" secondItem="JzJ-X2-3Md" secondAttribute="leading" constant="20" id="M6M-1L-3bz"/>
                                     <constraint firstItem="bFZ-x4-c9o" firstAttribute="leading" secondItem="JzJ-X2-3Md" secondAttribute="leading" constant="39" id="NW8-EG-GJc"/>
@@ -900,14 +899,14 @@
                             <constraint firstItem="JzJ-X2-3Md" firstAttribute="top" secondItem="a5c-Pc-GnA" secondAttribute="top" constant="102" id="XCH-Oa-KFc"/>
                             <constraint firstItem="JzJ-X2-3Md" firstAttribute="centerX" secondItem="n4q-jX-EQL" secondAttribute="centerX" id="kmG-Mb-i4W"/>
                             <constraint firstItem="JzJ-X2-3Md" firstAttribute="leading" secondItem="a5c-Pc-GnA" secondAttribute="leading" constant="40" id="txN-A2-eyK"/>
-                            <constraint firstItem="JzJ-X2-3Md" firstAttribute="centerY" secondItem="n4q-jX-EQL" secondAttribute="centerY" id="ty5-Fc-08o"/>
+                            <constraint firstItem="JzJ-X2-3Md" firstAttribute="centerY" secondItem="n4q-jX-EQL" secondAttribute="centerY" constant="36.5" id="ty5-Fc-08o"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="a5c-Pc-GnA"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="QQa-4S-TfF" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2786.4000000000001" y="1547.6761619190406"/>
+            <point key="canvasLocation" x="2786.25" y="1547.5352112676057"/>
         </scene>
         <!--Gracias-->
         <scene sceneID="oYu-gg-WOj">
@@ -920,7 +919,7 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Rj9-yJ-VYB">
                                 <rect key="frame" x="40" y="122" width="240" height="324"/>
                                 <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tu orden a sido recibida." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E4S-qI-W8v">
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tu orden ha sido recibida." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E4S-qI-W8v">
                                         <rect key="frame" x="-32" y="115" width="304" height="72"/>
                                         <fontDescription key="fontDescription" style="UICTFontTextStyleTitle2"/>
                                         <nil key="textColor"/>
@@ -1043,9 +1042,9 @@
         <image name="ingredientes" width="36" height="35"/>
         <image name="pan" width="42" height="41"/>
         <image name="queso" width="41" height="29"/>
-        <image name="tamaño" width="47" height="47"/>
+        <image name="tamaño" width="47" height="47"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="9sg-5S-urs"/>
+        <segue reference="Zat-Dl-ucv"/>
     </inferredMetricsTieBreakers>
 </document>
